@@ -29,7 +29,7 @@ public class ChatAbuseTest {
 		        "/Users/shrish/src/resources/chromedriver-mac-arm64",
 		        "https://elm-qa-chat.theburnsway.ca/",
 		        "leps2@theburnsway.ca",
-		        "12345678901234",
+		        "**********",
 		        "Jim",
 		        "Hello I am an automated advocate.",
 		        "What a coincidence, I am also an automated guest...",
